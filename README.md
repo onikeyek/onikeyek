@@ -5,12 +5,15 @@ I’m an Information Technology IoT student, specializing in Cloud Engineering a
 
 Currently, I’m strengthening my skills in AWS, cloud infrastructure, while applying my knowledge through hands-on projects in IoT and data Science My career goal is to grow into a Cloud Engineer, contributing to scalable, impactful solutions that improve everyday life.
 
-🔹 Skills
+
+🔹Skills
 
 Languages: Python, R, SQL, Java (beginner), HTML/CSS, React (beginner)
 Tools: Git, GitHub, Tableau, Power BI, Excel, MATLAB
 Cloud & IoT: AWS (learning), IoT Systems, Database Design
-🔹 Let’s Connect
+
+
+🔹Let’s Connect
 
 📧 Email: [naimotyekini95@gmail.com]
 💼 LinkedIn: [https://www.linkedin.com/in/naimot-yekini-46216397/]
