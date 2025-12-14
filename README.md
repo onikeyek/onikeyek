@@ -1,9 +1,9 @@
 ## Hi there 👋
 Hello 👋, My name is Naimot-Omodolapo-Yekini
 
-I’m an Information Technology IoT student, specializing in Cloud Engineering and IoT solutions. I am passionate about cloud systems, IoT, and innovative technologies.I’m passionate about experimenting with different technologies, including IoT systems, cloud platforms, automation, and software applications, while exploring how they can solve real-world challenges.
+I’m an Information Technology IoT student, specializing in Data Engineering and IoT solutions. I am passionate about Data, IoT, and innovative technologies.I’m passionate about experimenting with different technologies, including IoT systems, cloud platforms, automation, and software applications, while exploring how they can solve real-world challenges.
 
-Currently, I’m strengthening my skills in AWS, cloud infrastructure, while applying my knowledge through hands-on projects in IoT and data Science My career goal is to grow into a Cloud Engineer, contributing to scalable, impactful solutions that improve everyday life.
+Currently, I’m strengthening my skills in Data Engineering, cloud infrastructure, while applying my knowledge through hands-on projects in IoT and data Science My career goal is to grow into a Data Engineer, contributing to scalable, impactful solutions that improve everyday life.
 
 
 🔹Skills
