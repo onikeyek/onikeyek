@@ -17,7 +17,7 @@ Cloud & IoT: AWS (learning), IoT Systems, Database Design
 
 📧 Email: [naimotyekini95@gmail.com]
 💼 LinkedIn: [https://www.linkedin.com/in/naimot-yekini-46216397/]
-🌍 Portfolio/Website: Coming soon!
+
 
 <!--
 **onikeyek/onikeyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
