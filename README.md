@@ -80,6 +80,42 @@ class Naimot:
 
 <br/>
 
+## ✦ currently learning
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Cloud-learning_now_🌱-f7a8d0?style=for-the-badge&logo=amazon-aws&logoColor=1a0533)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-diving_deeper_📊-c084fc?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-building_things_🔧-a78bfa?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
+## ✦ featured projects
+
+<div align="center">
+
+| 🌸 Project | 💡 What it does | 🛠️ Stack |
+|---|---|---|
+| 🏦 [bank-account-app](https://github.com/onikeyek/bank-account-app) | Python CLI bank app — account creation, hashed PIN auth, transaction history & JSON persistence | Python |
+| 💳 [credit-card-fraud-eda](https://github.com/onikeyek/credit-card-fraud-eda) | Exploratory data analysis on credit card fraud detection | Python, Jupyter |
+| 👩‍💼 [HR-Leave-Management-System](https://github.com/onikeyek/HR-Leave-Management-System) | Web-based HR leave request & approval system using the Flet framework | Python |
+| 📣 [Marketing-campgn-analysis](https://github.com/onikeyek/Marketing-campgn-analysis) | Marketing campaign data analysis & insights | Python |
+| 🦠 [Data-analysis-Covid-prjt](https://github.com/onikeyek/Data-analysis-Covid-prjt) | COVID-19 data analysis project | Python |
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
 ## ✦ what i'm building toward
 
 <div align="center">
