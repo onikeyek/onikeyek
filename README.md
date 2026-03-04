@@ -96,25 +96,6 @@ class Naimot:
 
 <br/>
 
-## ✦ featured projects
-
-<div align="center">
-
-| 🌸 Project | 💡 What it does | 🛠️ Stack |
-|---|---|---|
-| 🏦 [bank-account-app](https://github.com/onikeyek/bank-account-app) | Python CLI bank app — account creation, hashed PIN auth, transaction history & JSON persistence | Python |
-| 💳 [credit-card-fraud-eda](https://github.com/onikeyek/credit-card-fraud-eda) | Exploratory data analysis on credit card fraud detection | Python, Jupyter |
-| 👩‍💼 [HR-Leave-Management-System](https://github.com/onikeyek/HR-Leave-Management-System) | Web-based HR leave request & approval system using the Flet framework | Python |
-| 📣 [Marketing-campgn-analysis](https://github.com/onikeyek/Marketing-campgn-analysis) | Marketing campaign data analysis & insights | Python |
-| 🦠 [Data-analysis-Covid-prjt](https://github.com/onikeyek/Data-analysis-Covid-prjt) | COVID-19 data analysis project | Python |
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
-
-<br/>
 
 ## ✦ what i'm building toward
 
