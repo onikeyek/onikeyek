@@ -1,90 +1,123 @@
 <div align="center">
 
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ANIMATED BANNER — upload banner.svg to your repo and use the raw link -->
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/banner.svg" width="100%" alt="banner"/>
 
-# Hello, I'm Naimot-Omodolapo-Yekini 👋
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=onikeyek&color=blueviolet&style=for-the-badge)](https://github.com/onikeyek)
-[![GitHub followers](https://img.shields.io/github/followers/onikeyek?style=for-the-badge&color=blue)](https://github.com/onikeyek)
+<!-- TYPING ANIMATION — upload typing.svg to your repo -->
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/typing.svg" width="500" alt="typing"/>
 
-</div>
+<br/><br/>
 
----
-
-### 👩‍💻 About Me
-
-- 🎓 **IT & IoT student** specializing in **Data Engineering** and IoT solutions
-- 🌱 Currently strengthening skills in **Data Engineering** and **Cloud Infrastructure**
-- 🔭 Exploring how IoT, cloud platforms & automation solve real-world challenges
-- 🎯 Goal: Grow into a **Data Engineer** building scalable, impactful solutions
-- ⚡ Fun fact: I love bridging the physical and digital world!
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=onikeyek&color=c084fc&style=flat-square&label=visitors)](https://github.com/onikeyek)
 
 </div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<!-- WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## ✦ who am i?
 
-**Tools**
+```python
+class Naimot:
+    name       = "Naimot-Omodolapo-Yekini"
+    role       = "Aspiring Data Engineer 🌸"
+    university = "Information Technology · IoT"
+    based_in   = "Nigeria 🇳🇬"
+    interests  = ["Data Engineering", "IoT Systems", "Cloud Infra", "Automation"]
+    
+    def current_quest(self):
+        return "Turning messy data into meaningful stories 📊"
+    
+    def fun_fact(self):
+        return "I think in pipelines and dream in dashboards ✨"
+```
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<br/>
 
-**Cloud & IoT**
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
 
----
-
-### 📊 GitHub Stats
+## ✦ what i work with
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onikeyek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**↳ Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onikeyek&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-f7a8d0?style=for-the-badge&logo=python&logoColor=1a0533)
+![R](https://img.shields.io/badge/R-c084fc?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-67e8f9?style=for-the-badge&logo=openjdk&logoColor=1a0533)
+![HTML](https://img.shields.io/badge/HTML-f7a8d0?style=for-the-badge&logo=html5&logoColor=1a0533)
+![CSS](https://img.shields.io/badge/CSS-c084fc?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-67e8f9?style=for-the-badge&logo=react&logoColor=1a0533)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=onikeyek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+**↳ Data & Visualisation**
+
+![Tableau](https://img.shields.io/badge/Tableau-f7a8d0?style=for-the-badge&logo=tableau&logoColor=1a0533)
+![Power BI](https://img.shields.io/badge/Power_BI-c084fc?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-a78bfa?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-67e8f9?style=for-the-badge&logo=mathworks&logoColor=1a0533)
+
+**↳ Cloud & IoT**
+
+![AWS](https://img.shields.io/badge/AWS_(learning)-f7a8d0?style=for-the-badge&logo=amazon-aws&logoColor=1a0533)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-c084fc?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-67e8f9?style=for-the-badge&logo=mysql&logoColor=1a0533)
+![Git](https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
+## ✦ what i'm building toward
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=onikeyek&theme=tokyonight&no-frame=true&row=1&column=7)
+|  | now | next |
+|---|---|---|
+| 🔧 | Hands-on IoT + data science projects | Real-time data pipelines |
+| ☁️ | Learning AWS cloud infrastructure | Cloud-native deployments |
+| 📊 | Data visualisation & storytelling | ML for IoT sensor data |
+| 🌍 | Contributing to open source | Building my own data tools |
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
+## ✦ let's connect
 
 <div align="center">
 
-*"Data is the new oil — and I'm here to refine it."* 🚀
+*I'm always open to collaborating on data, IoT, or cloud projects!*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f7a8d0?style=for-the-badge&logo=linkedin&logoColor=1a0533)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-c084fc?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Gmail](https://img.shields.io/badge/Gmail-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-67e8f9?style=for-the-badge&logo=github&logoColor=1a0533)](https://github.com/onikeyek)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
+*✦ she turns data into decisions ✦*
 
 </div>
