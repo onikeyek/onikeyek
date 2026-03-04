@@ -28,7 +28,7 @@ class Naimot:
     name       = "Naimot-Omodolapo-Yekini"
     role       = "Aspiring Data Engineer 🌸"
     university = "Information Technology · IoT"
-    based_in   = "Nigeria 🇳🇬"
+    based_in   = "Finland "
     interests  = ["Data Engineering", "IoT Systems", "Cloud Infra", "Automation"]
     
     def current_quest(self):
@@ -132,6 +132,10 @@ class Naimot:
 <br/>
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+
+<br/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhY3hpeThoYWZrNDZtb2ZxZmtudjhlN2tudjU4MDdmMGw3MjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCEGrcYqJPsahh7XuT/giphy.gif" width="600" alt="coding vibes"/>
 
 <br/>
 
