@@ -27,9 +27,9 @@
 class Naimot:
     name       = "Naimot-Omodolapo-Yekini"
     role       = "Aspiring Data Engineer 🌸"
-    university = "Information Technology · IoT"
+    university = "Information Technology · IoT . Economics"
     based_in   = "Finland "
-    interests  = ["Data Engineering", "IoT Systems", "Cloud Infra", "Automation"]
+    interests  = ["Data Engineering", "Data Analysis", "IoT Systems", "Cloud Infra", "Automation"]
     
     def current_quest(self):
         return "Turning messy data into meaningful stories 📊"
