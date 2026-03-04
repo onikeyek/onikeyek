@@ -1,35 +1,90 @@
-## Hi there 👋
-Hello 👋, My name is Naimot-Omodolapo-Yekini
+<div align="center">
 
-I’m an Information Technology IoT student, specializing in Data Engineering and IoT solutions. I am passionate about Data, IoT, and innovative technologies.I’m passionate about experimenting with different technologies, including IoT systems, cloud platforms, automation, and software applications, while exploring how they can solve real-world challenges.
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Currently, I’m strengthening my skills in Data Engineering, cloud infrastructure, while applying my knowledge through hands-on projects in IoT and data Science My career goal is to grow into a Data Engineer, contributing to scalable, impactful solutions that improve everyday life.
+# Hello, I'm Naimot-Omodolapo-Yekini 👋
 
+[![Profile Views](https://komarev.com/ghpvc/?username=onikeyek&color=blueviolet&style=for-the-badge)](https://github.com/onikeyek)
+[![GitHub followers](https://img.shields.io/github/followers/onikeyek?style=for-the-badge&color=blue)](https://github.com/onikeyek)
 
-🔹Skills
+</div>
 
-Languages: Python, R, SQL, Java (beginner), HTML/CSS, React (beginner)
-Tools: Git, GitHub, Tableau, Power BI, Excel, MATLAB
-Cloud & IoT: AWS (learning), IoT Systems, Database Design
+---
 
+### 👩‍💻 About Me
 
-🔹Let’s Connect
+- 🎓 **IT & IoT student** specializing in **Data Engineering** and IoT solutions
+- 🌱 Currently strengthening skills in **Data Engineering** and **Cloud Infrastructure**
+- 🔭 Exploring how IoT, cloud platforms & automation solve real-world challenges
+- 🎯 Goal: Grow into a **Data Engineer** building scalable, impactful solutions
+- ⚡ Fun fact: I love bridging the physical and digital world!
 
-📧 Email: [naimotyekini95@gmail.com]
-💼 LinkedIn: [https://www.linkedin.com/in/naimot-yekini-46216397/]
+---
 
+### 🌐 Connect With Me
 
-<!--
-**onikeyek/onikeyek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Cloud & IoT**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onikeyek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onikeyek&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=onikeyek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=onikeyek&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is the new oil — and I'm here to refine it."* 🚀
+
+</div>
