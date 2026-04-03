@@ -1,144 +1,141 @@
 <div align="center">
 
-<!-- ANIMATED BANNER — upload banner.svg to your repo and use the raw link -->
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/banner.svg" width="100%" alt="banner"/>
 
 <br/>
 
-<!-- TYPING ANIMATION — upload typing.svg to your repo -->
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/typing.svg" width="500" alt="typing"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/typing.svg" width="520" alt="typing"/>
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=onikeyek&color=c084fc&style=flat-square&label=visitors)](https://github.com/onikeyek)
+[![Profile Views](https://komarev.com/ghpvc/?username=onikeyek&color=DAA520&style=flat-square&label=profile+views)](https://github.com/onikeyek)
 
 </div>
 
 <br/>
 
-<!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-## ✦ who am i?
+### ◈ &nbsp; about me
 
 ```python
 class Naimot:
     name       = "Naimot-Omodolapo-Yekini"
-    role       = "Aspiring Data Engineer 🌸"
-    university = "Information Technology · IoT . Economics"
-    based_in   = "Finland "
-    interests  = ["Data Engineering", "Data Analysis", "IoT Systems", "Cloud Infra", "Automation"]
-    
+    role       = "Aspiring Data Engineer"
+    focus      = "Information Technology · IoT"
+    based_in   = "Nigeria 🇳🇬"
+    interests  = ["Data Engineering", "IoT Systems", "Cloud Infrastructure", "Automation"]
+
     def current_quest(self):
-        return "Turning messy data into meaningful stories 📊"
-    
+        return "Turning messy data into meaningful stories"
+
     def fun_fact(self):
-        return "I think in pipelines and dream in dashboards ✨"
+        return "I think in pipelines and dream in dashboards"
 ```
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-## ✦ what i work with
+### ◈ &nbsp; what i work with
 
 <div align="center">
 
-**↳ Languages**
+**— Languages —**
 
-![Python](https://img.shields.io/badge/Python-f7a8d0?style=for-the-badge&logo=python&logoColor=1a0533)
-![R](https://img.shields.io/badge/R-c084fc?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-67e8f9?style=for-the-badge&logo=openjdk&logoColor=1a0533)
-![HTML](https://img.shields.io/badge/HTML-f7a8d0?style=for-the-badge&logo=html5&logoColor=1a0533)
-![CSS](https://img.shields.io/badge/CSS-c084fc?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-67e8f9?style=for-the-badge&logo=react&logoColor=1a0533)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FFD700)
+![R](https://img.shields.io/badge/R-0a0a0a?style=for-the-badge&logo=r&logoColor=FFD700)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![HTML](https://img.shields.io/badge/HTML-0a0a0a?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS](https://img.shields.io/badge/CSS-0a0a0a?style=for-the-badge&logo=css3&logoColor=FFD700)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FFD700)
 
-**↳ Data & Visualisation**
+**— Data & Visualisation —**
 
-![Tableau](https://img.shields.io/badge/Tableau-f7a8d0?style=for-the-badge&logo=tableau&logoColor=1a0533)
-![Power BI](https://img.shields.io/badge/Power_BI-c084fc?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-a78bfa?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-67e8f9?style=for-the-badge&logo=mathworks&logoColor=1a0533)
+![Tableau](https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=FFD700)
+![Power BI](https://img.shields.io/badge/Power_BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=FFD700)
+![Excel](https://img.shields.io/badge/Excel-0a0a0a?style=for-the-badge&logo=microsoft-excel&logoColor=FFD700)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=for-the-badge&logo=mathworks&logoColor=FFD700)
 
-**↳ Cloud & IoT**
+**— Cloud & IoT —**
 
-![AWS](https://img.shields.io/badge/AWS_(learning)-f7a8d0?style=for-the-badge&logo=amazon-aws&logoColor=1a0533)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-c084fc?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-67e8f9?style=for-the-badge&logo=mysql&logoColor=1a0533)
-![Git](https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(learning)-0a0a0a?style=for-the-badge&logo=amazon-aws&logoColor=FFD700)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0a0a0a?style=for-the-badge&logo=raspberry-pi&logoColor=FFD700)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=FFD700)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-## ✦ currently learning
+### ◈ &nbsp; currently learning
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Cloud-learning_now_🌱-f7a8d0?style=for-the-badge&logo=amazon-aws&logoColor=1a0533)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-diving_deeper_📊-c084fc?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Systems-building_things_🔧-a78bfa?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-learning_now-DAA520?style=for-the-badge&logo=amazon-aws&logoColor=0a0a0a)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-diving_deeper-DAA520?style=for-the-badge&logo=apacheairflow&logoColor=0a0a0a)
+![IoT](https://img.shields.io/badge/IoT_Systems-building_things-DAA520?style=for-the-badge&logo=raspberry-pi&logoColor=0a0a0a)
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-
-## ✦ what i'm building toward
+### ◈ &nbsp; featured projects
 
 <div align="center">
 
-|  | now | next |
-|---|---|---|
-| 🔧 | Hands-on IoT + data science projects | Real-time data pipelines |
-| ☁️ | Learning AWS cloud infrastructure | Cloud-native deployments |
-| 📊 | Data visualisation & storytelling | ML for IoT sensor data |
-| 🌍 | Contributing to open source | Building my own data tools |
+| Project | Description | Stack |
+|:---|:---|:---:|
+| ◈ &nbsp; [bank-account-app](https://github.com/onikeyek/bank-account-app) | Python CLI bank app — account creation, hashed PIN auth, transaction history & JSON persistence | `Python` |
+| ◈ &nbsp; [credit-card-fraud-eda](https://github.com/onikeyek/credit-card-fraud-eda) | Exploratory data analysis on credit card fraud detection | `Python` `Jupyter` |
+| ◈ &nbsp; [HR-Leave-Management-System](https://github.com/onikeyek/HR-Leave-Management-System) | Web-based HR leave request & approval system | `Python` `Flet` |
+| ◈ &nbsp; [Marketing-campgn-analysis](https://github.com/onikeyek/Marketing-campgn-analysis) | Marketing campaign data analysis & insights | `Python` |
+| ◈ &nbsp; [Data-analysis-Covid-prjt](https://github.com/onikeyek/Data-analysis-Covid-prjt) | COVID-19 data analysis project | `Python` |
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-## ✦ let's connect
+### ◈ &nbsp; let's connect
 
 <div align="center">
 
-*I'm always open to collaborating on data, IoT, or cloud projects!*
+*Open to collaborating on data, IoT, or cloud projects*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f7a8d0?style=for-the-badge&logo=linkedin&logoColor=1a0533)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-c084fc?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-67e8f9?style=for-the-badge&logo=github&logoColor=1a0533)](https://github.com/onikeyek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=twitter&logoColor=FFD700)](https://twitter.com/YOUR_TWITTER)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/onikeyek)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/wave.svg" width="100%" alt="wave"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhY3hpeThoYWZrNDZtb2ZxZmtudjhlN2tudjU4MDdmMGw3MjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCEGrcYqJPsahh7XuT/giphy.gif" width="560" alt="coding vibes"/>
 
 <br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhY3hpeThoYWZrNDZtb2ZxZmtudjhlN2tudjU4MDdmMGw3MjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCEGrcYqJPsahh7XuT/giphy.gif" width="600" alt="coding vibes"/>
+<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
 <br/>
 
-*✦ she turns data into decisions ✦*
+*◈ &nbsp; she turns data into decisions &nbsp; ◈*
 
 </div>
