@@ -1,0 +1,93 @@
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#28293D"/>
+      <stop offset="50%" style="stop-color:#2E3061"/>
+      <stop offset="100%" style="stop-color:#28293D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#55518400"/>
+      <stop offset="30%" style="stop-color:#9997BC"/>
+      <stop offset="60%" style="stop-color:#FEE9CE"/>
+      <stop offset="100%" style="stop-color:#9997BC00"/>
+    </linearGradient>
+    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9997BC"/>
+      <stop offset="50%" style="stop-color:#FEE9CE"/>
+      <stop offset="100%" style="stop-color:#9997BC"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="url(#bg)" rx="10"/>
+
+  <!-- subtle grid -->
+  <g stroke="#55518420" stroke-width="0.5">
+    <line x1="0" y1="55" x2="900" y2="55"/>
+    <line x1="0" y1="110" x2="900" y2="110"/>
+    <line x1="0" y1="165" x2="900" y2="165"/>
+    <line x1="180" y1="0" x2="180" y2="220"/>
+    <line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="720" y1="0" x2="720" y2="220"/>
+  </g>
+
+  <!-- border -->
+  <rect x="6" y="6" width="888" height="208" fill="none" stroke="#555184" stroke-width="1" rx="8" opacity="0.5"/>
+
+  <!-- floating stars -->
+  <g fill="#FEE9CE">
+    <circle cx="60" cy="40" r="1.5" opacity="0.6"><animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="840" cy="35" r="1" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="130" cy="180" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="175" r="1" opacity="0.4"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="25" r="1" opacity="0.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="195" r="1.5" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="230" cy="90" r="1" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="670" cy="80" r="1" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- decorative left/right side bars -->
+  <rect x="20" y="30" width="2" height="160" fill="#555184" opacity="0.4" rx="1"/>
+  <rect x="878" y="30" width="2" height="160" fill="#555184" opacity="0.4" rx="1"/>
+
+  <!-- Welcome text small -->
+  <text x="450" y="68" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#9997BC" letter-spacing="4" opacity="0.8">
+    ✦  WELCOME TO MY GITHUB  ✦
+    <animate attributeName="opacity" values="0;0.8" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Main name -->
+  <text x="450" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" fill="url(#textgrad)" filter="url(#glow)" letter-spacing="1">
+    Naimot-Omodolapo-Yekini
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- divider line -->
+  <line x1="270" y1="136" x2="630" y2="136" stroke="url(#accent)" stroke-width="1">
+    <animate attributeName="x1" values="450;270" dur="1.2s" fill="freeze"/>
+    <animate attributeName="x2" values="450;630" dur="1.2s" fill="freeze"/>
+  </line>
+
+  <!-- subtitle -->
+  <text x="450" y="162" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#B2A6BE" letter-spacing="4">
+    DATA ENGINEER  ·  IOT  ·  CLOUD
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
+  </text>
+
+  <!-- tagline -->
+  <text x="450" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#FEE9CE" font-style="italic" opacity="0.7">
+    turning raw data into real-world impact
+    <animate attributeName="opacity" values="0;0.7" dur="2.5s" fill="freeze"/>
+  </text>
+
+  <!-- corner brackets -->
+  <g stroke="#9997BC60" stroke-width="1.2" fill="none">
+    <polyline points="15,15 15,38 38,38"/>
+    <polyline points="885,15 885,38 862,38"/>
+    <polyline points="15,205 15,182 38,182"/>
+    <polyline points="885,205 885,182 862,182"/>
+  </g>
+</svg>
