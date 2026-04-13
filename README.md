@@ -97,20 +97,6 @@ Hello there! I'm **Naimot-Omodolapo-Yekini** — an IT & IoT student who lives a
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
-### 🔮 &nbsp; featured projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:---|:---|:---:|
-| ✦ &nbsp; [bank-account-app](https://github.com/onikeyek/bank-account-app) | Python CLI bank app — account creation, hashed PIN auth, transaction history & JSON persistence | `Python` |
-| ✦ &nbsp; [credit-card-fraud-eda](https://github.com/onikeyek/credit-card-fraud-eda) | Exploratory data analysis on credit card fraud detection | `Python` `Jupyter` |
-| ✦ &nbsp; [HR-Leave-Management-System](https://github.com/onikeyek/HR-Leave-Management-System) | Web-based HR leave request & approval system | `Python` `Flet` |
-| ✦ &nbsp; [Marketing-campgn-analysis](https://github.com/onikeyek/Marketing-campgn-analysis) | Marketing campaign data analysis & insights | `Python` |
-| ✦ &nbsp; [Data-analysis-Covid-prjt](https://github.com/onikeyek/Data-analysis-Covid-prjt) | COVID-19 data analysis project | `Python` |
-
-</div>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
