@@ -5,6 +5,7 @@
 <br/>
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/typing.svg" width="540" alt="typing"/>
+<!-- typing text to update: "$ pivoting from IoT to security, one packet at a time..." -->
 
 <br/><br/>
 
@@ -12,9 +13,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-28293D?style=flat-square&logo=linkedin&logoColor=9997BC)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-28293D?style=flat-square&logo=twitter&logoColor=9997BC)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-28293D?style=flat-square&logo=gmail&logoColor=9997BC)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-28293D?style=flat-square&logo=linkedin&logoColor=9997BC)](https://linkedin.com/in/naimot-yekini-46216397)
+[![Gmail](https://img.shields.io/badge/Gmail-28293D?style=flat-square&logo=gmail&logoColor=9997BC)](mailto:naimotyekini95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-28293D?style=flat-square&logo=github&logoColor=9997BC)](https://github.com/onikeyek)
 
 </div>
@@ -23,26 +23,26 @@
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
-### 🔐 &nbsp; about me
+### 🔎 &nbsp; about me
 
-<img align="right" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhY3hpeThoYWZrNDZtb2ZxZmtudjhlN2tudjU4MDdmMGw3MjY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCEGrcYqJPsahh7XuT/giphy.gif"/>
+Hello there! I'm **Naimot Yekini** — an analyst moving into **cybersecurity**, with a
+background in research, data, and systems.
 
-Hello there! I'm **Naimot-Omodolapo-Yekini** — an IT & IoT student currently transitioning into **cybersecurity**.
+I define validation rules before I touch a dataset — checking format, required fields,
+range limits, and consistency — then flag what doesn't hold up before it reaches a client.
+That same structured-thinking habit is what's pulling me toward security analysis and GRC:
+the work is different, the mindset is the same.
 
-My background spans data, software development, cloud technologies, and connected systems. I'm now focusing that foundation on understanding how systems are secured, how attacks happen, and how security can be built into the systems we create.
-
-I learn by building, experimenting, breaking things in controlled environments, and documenting what I discover.
+I'm certified in Fortinet NSE 1 and Google's Foundations of Cybersecurity, working toward
+CompTIA Security+ (exam scheduled October 2026).
 
 <br/>
 
-🎓 &nbsp; *Studying Information Technology & IoT* <br/>
-🔐 &nbsp; *Currently transitioning into Cybersecurity* <br/>
-🌐 &nbsp; *Exploring networking, Linux, system security & cloud security* <br/>
-🛡️ &nbsp; *Interested in defensive security, threat detection & security engineering* <br/>
-🤖 &nbsp; *Bringing an IoT background into security-focused projects* <br/>
-📚 &nbsp; *Always learning, building & documenting*
-
-<br clear="right"/>
+🎓 &nbsp; *BEng Information Technology (Savonia, Finland) · BSc Economics* <br/>
+🔐 &nbsp; *Fortinet NSE 1 · Google Foundations of Cybersecurity · Security+ in progress* <br/>
+🔎 &nbsp; *Targeting: Cybersecurity Analyst, Threat Intelligence, GRC, Business/Data Analyst* <br/>
+📊 &nbsp; *Freelance data analyst — validation, reporting, and research across client engagements* <br/>
+🛠️ &nbsp; *Shipped a full IoT product end-to-end during my internship — technical range, not my target role*
 
 <br/>
 
@@ -50,65 +50,44 @@ I learn by building, experimenting, breaking things in controlled environments, 
 
 ### 🛡️ &nbsp; cybersecurity journey
 
-<div align="center">
+**Certified:**
+- ✅ Fortinet Network Security Expert Level 1: Certified Associate
+- ✅ Google Foundations of Cybersecurity
+- 🔄 CompTIA Security+ (SY0-701) — in progress, exam October 2026
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-555184?style=for-the-badge&logo=hackthebox&logoColor=FEE9CE)
-![Networking](https://img.shields.io/badge/Networking-555184?style=for-the-badge&logo=cisco&logoColor=FEE9CE)
-![Linux](https://img.shields.io/badge/Linux-28293D?style=for-the-badge&logo=linux&logoColor=9997BC)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-28293D?style=for-the-badge&logo=cloudflare&logoColor=9997BC)
-![IoT Security](https://img.shields.io/badge/IoT_Security-28293D?style=for-the-badge&logo=espressif&logoColor=9997BC)
+**Currently studying:** networking fundamentals, Linux, and security operations concepts
+via Professor Messer and TryHackMe.
 
-</div>
-
-<br/>
-
-I'm building my cybersecurity foundation through hands-on learning and practical projects.
-
-My current areas of interest include:
-
-- 🔎 Security fundamentals & threat analysis
-- 🌐 Networking & network security
-- 🐧 Linux & system administration
-- 🛡️ Defensive security & monitoring
-- ☁️ Cloud security
-- 🤖 IoT & embedded device security
-- 🐍 Security automation with Python
-- 🔐 Secure application & API development
+**Where I'm headed:** Cybersecurity Analyst and Threat Intelligence roles, with GRC as a
+close second track — leaning on a research and compliance-minded background rather than
+a coding-first one.
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
-### 💻 &nbsp; technical toolkit
+### 💻 &nbsp; analytical & technical toolkit
 
 <div align="center">
 
-**— Security & Systems —**
+**— Security —**
 
+![Security Fundamentals](https://img.shields.io/badge/Security_Fundamentals-2E3061?style=for-the-badge&logo=hackthebox&logoColor=FEE9CE)
+![Networking](https://img.shields.io/badge/Networking-2E3061?style=for-the-badge&logo=cisco&logoColor=FEE9CE)
 ![Linux](https://img.shields.io/badge/Linux-2E3061?style=for-the-badge&logo=linux&logoColor=FEE9CE)
-![Git](https://img.shields.io/badge/Git-2E3061?style=for-the-badge&logo=git&logoColor=FEE9CE)
-![Python](https://img.shields.io/badge/Python-2E3061?style=for-the-badge&logo=python&logoColor=FEE9CE)
-![Bash](https://img.shields.io/badge/Bash-2E3061?style=for-the-badge&logo=gnubash&logoColor=FEE9CE)
 
-**— Networking & Cloud —**
+**— Data & Reporting —**
 
-![AWS](https://img.shields.io/badge/AWS-555184?style=for-the-badge&logo=amazon-aws&logoColor=FEE9CE)
-![MQTT](https://img.shields.io/badge/MQTT-555184?style=for-the-badge&logo=eclipsemosquitto&logoColor=FEE9CE)
-![HTTP](https://img.shields.io/badge/HTTP-555184?style=for-the-badge&logo=googlechrome&logoColor=FEE9CE)
-![REST API](https://img.shields.io/badge/REST_APIs-555184?style=for-the-badge&logo=fastapi&logoColor=FEE9CE)
+![Excel](https://img.shields.io/badge/Excel-555184?style=for-the-badge&logo=microsoftexcel&logoColor=FEE9CE)
+![SQL](https://img.shields.io/badge/SQL-555184?style=for-the-badge&logo=mysql&logoColor=FEE9CE)
+![Power BI](https://img.shields.io/badge/Power_BI-555184?style=for-the-badge&logo=powerbi&logoColor=FEE9CE)
+![Tableau](https://img.shields.io/badge/Tableau-555184?style=for-the-badge&logo=tableau&logoColor=FEE9CE)
 
-**— Programming & Data —**
+**— Research & Tools —**
 
 ![Python](https://img.shields.io/badge/Python-28293D?style=for-the-badge&logo=python&logoColor=9997BC)
-![SQL](https://img.shields.io/badge/SQL-28293D?style=for-the-badge&logo=mysql&logoColor=9997BC)
-![Java](https://img.shields.io/badge/Java-28293D?style=for-the-badge&logo=openjdk&logoColor=9997BC)
-![R](https://img.shields.io/badge/R-28293D?style=for-the-badge&logo=r&logoColor=9997BC)
-
-**— IoT & Embedded —**
-
-![ESP32](https://img.shields.io/badge/ESP32-555184?style=for-the-badge&logo=espressif&logoColor=FEE9CE)
-![Arduino](https://img.shields.io/badge/Arduino-555184?style=for-the-badge&logo=arduino&logoColor=FEE9CE)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-555184?style=for-the-badge&logo=raspberry-pi&logoColor=FEE9CE)
+![Git](https://img.shields.io/badge/Git-28293D?style=for-the-badge&logo=git&logoColor=9997BC)
+![Asana](https://img.shields.io/badge/Asana-28293D?style=for-the-badge&logo=asana&logoColor=9997BC)
 
 </div>
 
@@ -116,34 +95,17 @@ My current areas of interest include:
 
 <img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
 
-### 📚 &nbsp; currently learning
+### 🧪 &nbsp; project experience
 
-<div align="center">
+Most of my repos reflect projects done along the way rather than a target career path —
+they're evidence I can pick things up and ship, which carries over into analyst and
+security work even when the subject matter doesn't match exactly.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-main_focus-9997BC?style=for-the-badge&logo=hackthebox&logoColor=28293D)
-![Networking](https://img.shields.io/badge/Networking-building_foundations-B2A6BE?style=for-the-badge&logo=cisco&logoColor=28293D)
-![Linux](https://img.shields.io/badge/Linux-learning_now-FEE9CE?style=for-the-badge&logo=linux&logoColor=28293D)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-exploring-9997BC?style=for-the-badge&logo=amazonaws&logoColor=28293D)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
-
-### 🧪 &nbsp; what i'm building
-
-I'm using my existing background in **IoT, programming, data and cloud systems** to build projects that help me understand cybersecurity in practice.
-
-Some areas you'll find across my repositories:
-
-- 🔐 Security-focused Python projects
-- 🌐 Networking & security labs
-- 🐧 Linux experiments
-- 🤖 IoT security experiments
-- ☁️ Cloud & API security projects
-- 📊 Security data analysis
-- 🛠️ Small tools and automation scripts
+- 🤖 **Milo** — a full-stack IoT desk companion (ESP32-S3, TinyML audio classification,
+  Flask/SQLite API, live dashboard) — built and shipped end-to-end during a university
+  internship
+- 📊 Data cleaning, validation, and reporting projects from freelance and coursework work
+- 🔐 Early security labs and notes as I work through Security+ material
 
 <br/>
 
@@ -166,6 +128,6 @@ Some areas you'll find across my repositories:
 
 <div align="center">
 
-*✦ &nbsp; cybersecurity learner · systems builder · lifelong learner &nbsp; ✦*
+*✦ &nbsp; analyst · security learner · researcher at heart &nbsp; ✦*
 
 </div>
