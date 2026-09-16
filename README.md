@@ -19,58 +19,6 @@
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
-
-### 🔮 &nbsp; about me
-
-<img align="right" width="220" src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/about-art.svg"/>
-
-Hello there! I'm **Naimot Yekini** — an analyst moving into **cybersecurity**, with a background in research, data, and systems.
-
-I define validation rules before I touch a dataset — checking format, required fields, range limits, and consistency — then flag what doesn't hold up before it reaches a client. That same structured-thinking habit is what's pulling me toward security analysis: the work is different, the mindset is the same.
-
-I'm certified in Fortinet NSE 1 and Google's Foundations of Cybersecurity, working toward CompTIA Security+.
-
-<br/>
-
-🎓 &nbsp; *BEng Information Technology (Savonia, Finland) · BSc Economics* <br/>
-🔐 &nbsp; *Fortinet NSE 1 · Google Foundations of Cybersecurity · Security+ in progress* <br/>
-🔎 &nbsp; *Targeting: Cybersecurity Analyst, Threat Intelligence, Security Operations* <br/>
-📊 &nbsp; *Freelance data analyst — validation, reporting, and research across client engagements* <br/>
-🛠️ &nbsp; *Shipped a full IoT product end-to-end during my internship — technical range, not my target role*
-
-<br clear="right"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
-
-### 🛡️ &nbsp; cybersecurity journey
-
-<div align="center">
-
-![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-555184?style=for-the-badge&logo=fortinet&logoColor=FEE9CE)
-![Foundations of Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-555184?style=for-the-badge&logo=google&logoColor=FEE9CE)
-![Security+](https://img.shields.io/badge/Security%2B-in_progress-28293D?style=for-the-badge&logo=comptia&logoColor=9997BC)
-![Networking](https://img.shields.io/badge/Networking-28293D?style=for-the-badge&logo=cisco&logoColor=9997BC)
-![Linux](https://img.shields.io/badge/Linux-28293D?style=for-the-badge&logo=linux&logoColor=9997BC)
-
-</div>
-
-<br/>
-
-I'm building my cybersecurity foundation through hands-on learning, not just courses.
-
-My current areas of focus:
-
-- 🔎 Security fundamentals & threat analysis
-- 🌐 Networking & network security
-- 🐧 Linux & system administration
-- 🛡️ Defensive security & security operations
-- 📋 GRC-adjacent thinking, carried over from data validation work
-- 🎯 CompTIA Security+ (SY0-701) — exam scheduled October 2026
 
 <br/>
 
