@@ -108,32 +108,27 @@ I'm also a vibe coder at heart: I build with intention, curiosity, and a playlis
 
 ### 🔮 &nbsp; what i build
 
-<div align="center">
-
-| | Focus | Description |
-|:---:|:---|:---|
-| 📊 | **Data Analytics** | Turning raw data into meaningful insights and visualisations |
-| ⚙️ | **Data Engineering** | Building pipelines and systems for collecting, transforming and organising data |
-| 🌐 | **IoT Engineering** | Developing connected systems that collect and communicate real-world data |
-| 💻 | **Web & Backend** | Building applications and APIs around data-driven systems |
-
-</div>
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/onikeyek/onikeyek/main/divider.svg" width="100%"/>
-
-### 🔮 &nbsp; featured projects
-
 <div align="center">
 
-| Project | Description | Stack |
-|:---|:---|:---:|
-| ✦ &nbsp; [bank-account-app](https://github.com/onikeyek/bank-account-app) | Python CLI bank app — account creation, hashed PIN auth, transaction history & JSON persistence | `Python` |
-| ✦ &nbsp; [credit-card-fraud-eda](https://github.com/onikeyek/credit-card-fraud-eda) | Exploratory data analysis on credit card fraud detection | `Python` `Jupyter` |
-| ✦ &nbsp; [HR-Leave-Management-System](https://github.com/onikeyek/HR-Leave-Management-System) | Web-based HR leave request & approval system | `Python` `Flet` |
-| ✦ &nbsp; [Marketing-campgn-analysis](https://github.com/onikeyek/Marketing-campgn-analysis) | Marketing campaign data analysis & insights | `Python` |
-| ✦ &nbsp; [Data-analysis-Covid-prjt](https://github.com/onikeyek/Data-analysis-Covid-prjt) | COVID-19 data analysis project | `Python` |
+```
+📊 DATA ANALYTICS          ⚙️ DATA ENGINEERING
+─────────────────────      ─────────────────────
+Cleaning & transforming    Building ETL/ELT pipelines
+Exploratory analysis       Designing data models
+Visualisation & insights   APIs & data ingestion
+Power BI · Tableau         PostgreSQL · Databricks
+```
+
+```
+🌐 IOT ENGINEERING         💻 WEB & BACKEND
+─────────────────────      ─────────────────────
+Embedded systems & sensors Building data-driven apps
+MQTT & data collection     REST APIs & Flask backends
+IoT dashboards             HTML · CSS · JavaScript
+ESP32 · Raspberry Pi       Connecting data to the web
+```
 
 </div>
 
